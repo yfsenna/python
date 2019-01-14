@@ -1,2 +1,2 @@
-def nomes():
-    return 'Arthur ' "e " 'Zaphod'
+def nomes(nome1, nome2):
+    return nome1 + ' e ' + nome2
